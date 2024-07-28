@@ -23,7 +23,7 @@ ENCHANTMENTS := [
     "Magical Damage Reduction",
     "Projectile Damage Reduction",
     "Action Speed",
-    "Move Speed",
+    "Additional Move Speed",
     "Move Speed Bonus",
     "Regular Interaction Speed",
     "Magical Interaction Speed",
@@ -34,7 +34,7 @@ ENCHANTMENTS := [
     "Magical Healing",
     "Buff Duration Bonus",
     "Debuff Duration Bonus",
-    "Memory Capacity",
+    "Additional Memory Capacity",
     "Memory Capacity Bonus",
     "Luck",
     "Additional Weapon Damage"
